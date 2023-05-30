@@ -4,8 +4,8 @@ description: Docs intro
 layout: ../../layouts/MainLayout.astro
 ---
 
-This project summarize the notes of the intelligent agent course
+This project summarizes the notes of the intelligent agent course
 
-Use astro for visualization
+Use Astro for visualization
 
 Enjoy it !!!
